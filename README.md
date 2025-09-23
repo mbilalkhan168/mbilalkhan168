@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">A Computer Enthusiast and Web and App Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbilalkhan168&label=Profile%20views&color=0e75b6&style=flat" alt="mbilalkhan168" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbilalkhan168" alt="mbilalkhan168" /></a> </p>
+
 - I’m currently working on **App technologies,React Native,AI-assisted coding and modern**
 
 - 🌱 I’m currently learning **React Native Expo**
@@ -21,3 +25,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbilalkhan168&show_icons=true&locale=en&layout=compact" alt="mbilalkhan168" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbilalkhan168&show_icons=true&locale=en" alt="mbilalkhan168" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbilalkhan168&" alt="mbilalkhan168" /></p>
