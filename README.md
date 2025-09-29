@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">A Computer Enthusiast and Web and App Developer</h3>
 
-- I’m currently working on **App technologies,React Native,AI-assisted coding and modern**
+- I’m currently working on **App technologies,React Native,AI-assisted coding and developing solution**
 
-- 🌱 I’m currently learning **React Native Expo**
+- 🌱 I’m currently learning **full stack app development**
 
 - I’m looking to collaborate on **App develpemnt**
 
