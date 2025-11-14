@@ -1,23 +1,74 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">A Software Engineer</h3>
+<div align="center">
 
-- I’m currently working on **App technologies,React Native,AI-assisted coding and modern**
+# 🧑‍💻✨ 𝙈𝙪𝙝𝙖𝙢𝙢𝙖𝙙 𝘽𝙞𝙡𝙖𝙡  
+### ⚡ Mobile Developer | React Native Enthusiast | Full Stack Engineer
 
-- I’m looking to collaborate on **App develpemnt**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=750&lines=🚀+Building+apps+that+feel+alive+⚡;💻+Mobile+Developer+with+React+Native;🎨+UI%2FUX+Lover+%7C+Smooth+Animations;🔥+Full+Stack+Engineer+%7C+Problem+Solver;⚡+Creating+Experiences%2C+Not+Just+Apps" />
 
-- Ask me about **React Native , HTML , CSS , JavaScript and MySQL**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,8,22&height=200&section=header&animation=twinkling&fontAlignY=40" />
 
-- How to reach me **mbilalkhan0037@gmail.com & https://wa.me/923091262648**
+</div>
 
-- Know about my experiences [RESUME](RESUME)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-bilal-b98210365/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-bilal-b98210365/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61552312835105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61552312835105" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+╔══════════════════════════════════════════╗
+║ 🚀 Code. Create. Innovate. Repeat. ║
+╚══════════════════════════════════════════╝
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbilalkhan168&show_icons=true&locale=en&layout=compact" alt="mbilalkhan168" /></p>
+yaml
+Copy code
+
+</div>
+
+---
+
+## 🧠 **About Me (In a Coder Style)**
+
+```javascript
+const bilal = {
+  name: "Muhammad Bilal",
+  country: "Pakistan 🇵🇰",
+  role: "Full Stack Mobile Developer",
+  focusAreas: ["Animations", "UI/UX", "React Native"],
+  techStack: {
+    mobile: ["React Native", "Expo"],
+    web: ["Next.js", "HTML", "CSS"],
+    backend: ["Supabase", "Firebase"],
+    styling: ["TailwindCSS"],
+    tools: ["Git", "TypeScript", "Redux"]
+  },
+  motto: "Write code that feels alive ⚡"
+};
+🛠️ Tech Stack
+<div align="center">
+𝗠𝗮𝗶𝗻 𝗪𝗲𝗮𝗽𝗼𝗻𝘀 🛡️⚔️
+✨ Tools I use to craft digital magic
+
+
+
+
+
+
+
+
+
+
+</div>
+⚡ GitHub Power Stats
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=mbilal404&show_icons=true&theme=radical&hide_border=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbilal404&layout=compact&theme=radical&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbilal404&theme=radical&hide_border=true" /> </div>
+🐍 Contribution Snake Animation
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div>
+🌌 Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbilal404&theme=react-dark&hide_border=true" /> </div>
+✨ Random Dev Quote
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div>
+🌍 Connect With Me
+<div align="center">
+
+
+</div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=mbilal404&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,8,22&height=150&section=footer&animation=twinkling" /> <div align="center">
+🧠💭 "Code is like art — the cleaner, the more beautiful."
+</div> ```
