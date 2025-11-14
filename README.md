@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">A Computer Enthusiast and Web and App Developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - I’m currently working on **App technologies,React Native,AI-assisted coding and modern**
 
